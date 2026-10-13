@@ -28,6 +28,11 @@ key information through charts, KPI cards, and filters.
 - KPI cards for important metrics
 - Charts for comparing passenger and flight data
 - Monthly flight distribution analysis
+  
+## Files Included
+- Airline dataset
+- Excel dashboard
+- Dashboard screenshot
 
 ## Objective
 To explore airline passenger and flight patterns
